@@ -1,0 +1,6 @@
+workflow-aggregator:latest
+ws-cleanup:latest
+blueocean:latest
+gradle:latest
+cucumber-reports:latest
+kubernetes:latest
