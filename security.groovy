@@ -19,4 +19,7 @@ newProtocols.removeAll(Arrays.asList(
 ));
 jenkins.setAgentProtocols(newProtocols)
 
+//Set master executors to 2
+jenkins.setNumExecutors(2)
+
 jenkins.save()
