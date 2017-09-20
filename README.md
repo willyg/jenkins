@@ -1,3 +1,5 @@
+[![Docker Build Status](https://img.shields.io/docker/build/willyg/jenkins.svg)](https://hub.docker.com/r/willyg/jenkins/)
+
 # jenkins
 with the following plugins:
 - workflow-aggregator:latest
